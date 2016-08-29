@@ -1,6 +1,6 @@
 {
   "name": "node-exec",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Execute shell commands from NodeJS",
   "main": "index.js",
   "directories": {
