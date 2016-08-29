@@ -23,7 +23,7 @@ Simple, just install it, require it and use it
       * @params {string} cmd (required)
       */
       shell.run(cmd).then(function(res){
-        // res: object with keys code & result
+        // res: object with keys {code,result} or {code,error}
         console.dir(res);
       });
 ```
